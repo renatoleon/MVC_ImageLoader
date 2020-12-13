@@ -1,0 +1,4 @@
+When hover, hightlight the image and the corresponding item in list ITEMS
+Update image
+Add pagination to Images content and Items List
+Style page
